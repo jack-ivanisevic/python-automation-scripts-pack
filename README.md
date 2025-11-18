@@ -1,5 +1,4 @@
-# Python Automation Scripts Pack
-
+# Python Automation Scripts
 ## Overview
 
 This repository contains a curated collection of Python automation scripts designed to streamline data tasks, support CRM workflows, process JSON structures, interact with APIs, and assist with common technical operations. These scripts are examples of practical, real-world automation patterns that are lightweight, modular, and easy to understand.
